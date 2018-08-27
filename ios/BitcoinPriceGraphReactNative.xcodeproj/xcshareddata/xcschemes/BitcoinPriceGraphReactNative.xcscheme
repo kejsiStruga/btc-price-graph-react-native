@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "CoinsChart.app"
-               BlueprintName = "CoinsChart"
-               ReferencedContainer = "container:CoinsChart.xcodeproj">
+               BuildableName = "BitcoinPriceGraphReactNative.app"
+               BlueprintName = "BitcoinPriceGraphReactNative"
+               ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "CoinsChartTests.xctest"
-               BlueprintName = "CoinsChartTests"
-               ReferencedContainer = "container:CoinsChart.xcodeproj">
+               BuildableName = "BitcoinPriceGraphReactNativeTests.xctest"
+               BlueprintName = "BitcoinPriceGraphReactNativeTests"
+               ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "CoinsChartTests.xctest"
-               BlueprintName = "CoinsChartTests"
-               ReferencedContainer = "container:CoinsChart.xcodeproj">
+               BuildableName = "BitcoinPriceGraphReactNativeTests.xctest"
+               BlueprintName = "BitcoinPriceGraphReactNativeTests"
+               ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "CoinsChart.app"
-            BlueprintName = "CoinsChart"
-            ReferencedContainer = "container:CoinsChart.xcodeproj">
+            BuildableName = "BitcoinPriceGraphReactNative.app"
+            BlueprintName = "BitcoinPriceGraphReactNative"
+            ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "CoinsChart.app"
-            BlueprintName = "CoinsChart"
-            ReferencedContainer = "container:CoinsChart.xcodeproj">
+            BuildableName = "BitcoinPriceGraphReactNative.app"
+            BlueprintName = "BitcoinPriceGraphReactNative"
+            ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "CoinsChart.app"
-            BlueprintName = "CoinsChart"
-            ReferencedContainer = "container:CoinsChart.xcodeproj">
+            BuildableName = "BitcoinPriceGraphReactNative.app"
+            BlueprintName = "BitcoinPriceGraphReactNative"
+            ReferencedContainer = "container:BitcoinPriceGraphReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

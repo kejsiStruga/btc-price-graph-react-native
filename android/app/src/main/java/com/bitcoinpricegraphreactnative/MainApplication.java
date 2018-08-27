@@ -1,4 +1,4 @@
-package com.coinschart;
+package com.bitcoinpricegraphreactnative;
 
 import android.app.Application;
 
